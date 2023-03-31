@@ -1,9 +1,9 @@
 import Styles from "./Sociais.module.css"
-export default function Sociais({ icon }) {
+export default function Sociais({ icon, link }) {
   return (
     <>
       <li className = {Styles.Social_card}>
-        <a href="#" target="_blank">
+        <a href={link} target="_blank">
           {icon}
         </a>
       </li>
