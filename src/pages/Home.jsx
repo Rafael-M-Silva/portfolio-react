@@ -16,10 +16,10 @@ export default function Home() {
           projetos fictício, para
           treinar e desenvolver minhas habilidades."/>
           <ul>
-            <Sociais icon={<FaFacebook />} />
-            <Sociais icon={<FaInstagram />} />
-            <Sociais icon={<FaTwitter />} />
-            <Sociais icon={<FaGithub />} />
+            <Sociais icon={<FaFacebook />} link='https://www.facebook.com/rafael.mauricio532/' />
+            <Sociais icon={<FaInstagram />} link='https://www.instagram.com/rafamauricio_s/' />
+            <Sociais icon={<FaTwitter />} link='https://twitter.com/BigodonX' />
+            <Sociais icon={<FaGithub />} link='https://github.com/Rafael-M-Silva' />
           </ul>
           <Line/>
           <Destaque/>
