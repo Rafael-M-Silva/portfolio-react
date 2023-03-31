@@ -1,0 +1,25 @@
+.Card {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  background: #2e2e2e;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.Card img {
+  width: 100%;
+  padding: 20px;
+}
+
+.Card p {
+  width: 100%;
+  background: #000000e7;
+  border-radius: 0px 0px 8px 8px;
+  text-align: center;
+  padding: 8px;
+}
+
+.Card img {
+  width: 200px;
+}

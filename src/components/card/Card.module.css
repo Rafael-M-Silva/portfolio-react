@@ -1,0 +1,39 @@
+.Card {
+  background: #202020;
+  margin: 20px 0px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.Card h1 {
+  font-size: 1.6rem;
+  padding-bottom: 10px;
+}
+
+.Card p {
+  padding-bottom: 30px;
+}
+
+.Card img {
+  width: 100px;
+  margin-right: 20px;
+}
+
+@media (max-width:600px) {
+  .Card h1 {
+    font-size: 1.4rem;
+  }
+  
+}
+
+@media (max-width:450px) {
+  .Card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .Card img {
+    margin-bottom: 10px;
+  }
+}
