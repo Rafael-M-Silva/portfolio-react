@@ -1,0 +1,10 @@
+.Section h1 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+.Tools {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}

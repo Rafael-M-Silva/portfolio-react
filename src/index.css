@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: 'Noto Sans Mono', monospace;
+  transition: .2s;
+}
+
+body{
+  padding-bottom: 96px;
+  background:#111111;
+  
+}
+
+main{
+  width: 880px;
+  margin: auto;
+}
+
+p, span{
+  color: #b1b1b1;
+}
+
+h1, h2, h3{
+  color: white;
+}
+
+ul {
+  display: flex;
+}
+
+hr {
+  height: 1px;
+  margin: auto;
+  margin: 80px 0px;
+  max-width: 880px;
+}
+
+@media screen and (max-width: 990px) {
+  main{
+    padding: 0px 40px;
+    width: 100%;
+  }
+}
+

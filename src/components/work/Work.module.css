@@ -1,0 +1,23 @@
+.Article_container {
+  margin: 20px 0px;
+}
+
+.Article_container h1{
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.Box_work {
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem 0;
+}
+
+.Box_work p {
+  font-weight: 700;
+  color: #fff;
+}
+
+.Box_work span {
+  padding-right: 10px;
+}
