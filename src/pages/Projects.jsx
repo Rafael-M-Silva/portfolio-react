@@ -14,8 +14,6 @@ import ABC from '../img/abc-tec.png'
 
 
 
-
-
 export default function Projects() {
   const imagens = [Theblog, Netbook, Burger, Dados, Watch, Tabuada, Age, DarkMode, Rocketpay, Nlw, ABC]
 
