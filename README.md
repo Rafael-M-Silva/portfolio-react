@@ -1,4 +1,4 @@
-<h1 align="center"> Country Guide App </h1>
+<h1 align="center"> Portfolio </h1>
 
 <p align="center">
 Desenvolvido para falar um pouco sobre minha trajetória com os estudos e apresentação de prejotos
